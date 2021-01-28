@@ -1,6 +1,6 @@
 # Node.js Learning!
 
-A repository with projects made practicing node JS.
+A repository with projects made practicing Node.js.
 
 
 ## Newsletter - MailChimp
